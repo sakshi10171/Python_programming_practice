@@ -24,6 +24,11 @@ Python fundamentals and improving problem-solving skills.
 | palindrome_number.py | Checks whether a number is palindrome |
 | factorial.py | Calculates factorial of a number |
 | fibonacci_series.py | Prints Fibonacci series |
+| reverse_string.py | Reverses a string |
+| count_vowels.py | Counts vowels in a string |
+| largest_element.py | Finds largest element in list |
+| armstrong_number.py | Checks Armstrong number |
+| multiplication_table.py | Prints multiplication table |
 
 
 ## 👩‍💻 Author
