@@ -32,6 +32,6 @@ Python fundamentals and improving problem-solving skills.
 | anagram_string.py | Checks whether two strings are anagrams |
 | second_largest.py | Finds second largest element in list |
 | remove_duplicates.py | Removes duplicates from list |
-
+| leap_year.py | Check year is leap year or not |
 ## 👩‍💻 Author
 **Sakshi Babar**
