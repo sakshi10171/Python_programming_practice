@@ -29,7 +29,9 @@ Python fundamentals and improving problem-solving skills.
 | largest_element.py | Finds largest element in list |
 | armstrong_number.py | Checks Armstrong number |
 | multiplication_table.py | Prints multiplication table |
-
+| anagram_string.py | Checks whether two strings are anagrams |
+| second_largest.py | Finds second largest element in list |
+| remove_duplicates.py | Removes duplicates from list |
 
 ## 👩‍💻 Author
 **Sakshi Babar**
