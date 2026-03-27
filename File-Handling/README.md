@@ -17,6 +17,7 @@ These programs cover basic to intermediate concepts such as reading, writing, ap
 | search_word.py | Searches a word in a file |
 | copy_file.py | Copies content from one file to another |
 | delete_file.py | Deletes a file |
+| char_count.py  |  Count number of characters in a file |
 
 ---
 
